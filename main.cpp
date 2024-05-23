@@ -1,7 +1,9 @@
 #include <iostream>
+#include "sum.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+int main()
+{
+  int s = sum(2, 3);
+  std::cout << "!" <<std::endl;
+  return 0;
 }
