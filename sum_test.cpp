@@ -9,7 +9,7 @@
 TEST(SUM_TEST/*test case name*/, SUM_TEST_1/*test name*/)
 {
   // sum(1,1) 함수 실행 결과가 2와 동일한지 확인한다 - 동일할 경우 테스트 통과, 다를 경우 테스트 실패
-  EXPECT_EQ(2, sum(1,1));
+  EXPECT_EQ(2, sum(1,1)); 
 }
 
 /**
