@@ -1,3 +1,5 @@
+SET(CMAKE_C_COMPILER gcc)
+SET(CMAKE_CXX_COMPILER g++)
 cmake_minimum_required(VERSION 3.25)
 project(googletest_sample)
 
