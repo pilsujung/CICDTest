@@ -1,3 +1,5 @@
+set(CMAKE_C_COMPILER "C:\MinGW\bin/gcc")
+set(CMAKE_CXX_COMPILER "C:\MinGW\bin/g++")
 cmake_minimum_required(VERSION 3.25)
 project(googletest_sample)
 
