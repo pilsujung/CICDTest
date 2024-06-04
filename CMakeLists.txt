@@ -1,5 +1,5 @@
-SET(CMAKE_C_COMPILER gcc)
-SET(CMAKE_CXX_COMPILER g++)
+SET(CMAKE_C_COMPILER C:/Users/psjun/Downloads/MinGW/bin/gcc.exe)
+SET(CMAKE_CXX_COMPILER C:/Users/psjun/Downloads/MinGW/bin/g++.exe)
 cmake_minimum_required(VERSION 3.25)
 project(googletest_sample)
 
