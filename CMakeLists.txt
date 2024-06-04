@@ -1,4 +1,3 @@
-find_package(Python ${PY_VERSION} REQUIRED)
 cmake_minimum_required(VERSION 3.25)
 project(googletest_sample)
 
