@@ -1,0 +1,21 @@
+# ninja log v6
+1	45	7416993935222759	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b6174da23a8f7c93
+1	45	7416993935222759	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b6174da23a8f7c93
+45	3845	7416993973243650	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f36e90cf83d1518
+45	3845	7416993973243650	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	f36e90cf83d1518
+3846	3977	7416993973273658	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	bccb541b59dd019f
+3846	3977	7416993973273658	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	bccb541b59dd019f
+3977	4016	7416993974943657	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	afe567cf8c520d5d
+3977	4016	7416993974943657	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	afe567cf8c520d5d
+4016	4054	7416993975323659	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	cb2ee340d766e4fc
+4016	4054	7416993975323659	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	cb2ee340d766e4fc
+4054	4092	7416993975703659	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8f861c8a66707fef
+4054	4092	7416993975703659	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8f861c8a66707fef
+4092	4138	7416993976163968	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5ee9c4d4dac7360e
+4092	4138	7416993976163968	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5ee9c4d4dac7360e
+4138	4180	7416993976583978	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cdcc3be3b30df98b
+4138	4180	7416993976583978	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cdcc3be3b30df98b
+4180	4234	7416993977123976	CMakeFiles/googletest-populate-complete	32cb018e77e8d4d1
+4180	4234	7416993977123976	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	32cb018e77e8d4d1
+4180	4234	7416993977123976	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	32cb018e77e8d4d1
+4180	4234	7416993977123976	C:/Users/user/Desktop/example/CICDTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	32cb018e77e8d4d1

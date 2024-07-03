@@ -1,0 +1,15 @@
+# ninja log v6
+17	165	7416994004171963	CMakeFiles/sumLibrary.dir/sum.cpp.obj	9a5642ebdf392f83
+29	252	7416994004291961	CMakeFiles/mainApp.dir/main.cpp.obj	76c5ce484ca02948
+165	342	7416994005654209	libsumLibrary.a	d99d951fbc5295a5
+342	475	7416994007424209	mainApp.exe	5bb6ef9a51b1aebb
+24	554	7416994004241964	build/_deps/googletest-src/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	6b8eb8779bd5ee6e
+33	566	7416994004331961	CMakeFiles/testRunner.dir/sum_test.cpp.obj	1b2ba8a7bed35e3b
+20	667	7416994004211963	build/_deps/googletest-src/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	c2f7f2530b3d26b9
+13	1249	7416994004131974	build/_deps/googletest-src/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	a7c0716da0a27c3
+6	2459	7416994004071972	build/_deps/googletest-src/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	4c541f795f2cfb85
+2459	2895	7416994028602142	lib/libgtest.a	5fbe911b1bd7be50
+2900	2987	7416994033002333	lib/libgtest_main.a	5a909f7ba0716061
+2895	3036	7416994032952335	lib/libgmock.a	fd9716758666d653
+3036	3127	7416994034362331	lib/libgmock_main.a	41385b650bf68827
+3127	3569	7416994035272329	testRunner.exe	8c530d9624d9e1fe
